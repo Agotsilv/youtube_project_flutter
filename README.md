@@ -2,7 +2,7 @@
 
 Projeto desenvolvido o clone do aplicativo do youtube com o uso da API do youtube.
 
-[API Youtube](https://developers.google.com/youtube/v3)
+[API Youtube](https://developers.google.com/youtube/v3)</br>
 [Funcionalidade do aplicativo](https://imgur.com/WaYCx9f)
 
 ## Preview
